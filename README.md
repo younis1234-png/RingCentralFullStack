@@ -1,4 +1,4 @@
-# RingCentralClean
+# RingCentral
 
 #FRONTEND:                                     
  - ReactJs - Sass - Reducer - React-Router-Dom
